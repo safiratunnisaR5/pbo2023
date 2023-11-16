@@ -1,0 +1,9 @@
+senin, 09.30
+senin, 10.30-12.10, statistik dan probabilitas
+senin, 13.00-15.30, arsitektur dan organisasi komputer
+selasa, 13.00-14.50, sistem informasi
+kamis, 08.00-09.40, komunikasi data
+kamis, 09.41-12.10, struktur data dan algoritma
+jumat, 08.00-09.40, AIK2
+jumat, 09.41-11.20, kalkulus2
+senin, 09.30, pbo
